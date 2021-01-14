@@ -8,4 +8,5 @@ Also you have to install tqdm using bellow command
 
 ## Usage
 >  Usage: python ./zpb.py
+
 ![Usage](https://raw.githubusercontent.com/Miladkhoshdel/zip-password-brute-forcer/main/1.PNG)
