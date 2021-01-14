@@ -1,2 +1,11 @@
-# zip-password-brute-forcer
+# zip password brute forcer
 Python Script for performing bruteforce attack on a ZIP fie
+
+## Requirment
+Just make sure you have python3 installed on your device.
+Also you have to install tqdm using bellow command
+>  pip3 install tqdm
+
+## Usage
+>  Usage: python ./zpb.py
+![Usage](https://raw.githubusercontent.com/Miladkhoshdel/zip-password-brute-forcer/main/1.PNG)
