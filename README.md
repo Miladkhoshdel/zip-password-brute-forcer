@@ -1,6 +1,8 @@
 # zip password brute forcer
 Python Script for performing bruteforce attack on a ZIP fie. it only support ZIP file that encrypted using ZIP legacy encryption, but i'm trying to extend my script to support more encryption algorithms.
 
+it works on Windows/Linux/Mac with almost 6000 words per second speed.
+
 ## Requirment
 Just make sure you have python3 installed on your device.
 Also you have to install tqdm using bellow command
